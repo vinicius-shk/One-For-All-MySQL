@@ -77,7 +77,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     
   INSERT INTO SpotifyClone.artistas (nome)
   VALUES
-    ('Beyonce'),
+    ('Beyoncé'),
     ('Queen'),
     ('Elis Regina'),
     ('Baco Exu do Blues'),
